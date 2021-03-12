@@ -1,0 +1,25 @@
+.table1, th, tr {
+  border: 5px solid red;
+}
+
+.table, th, tr {
+  width: 100px;
+}
+
+div {
+  background-color:red;
+  width: 100px;
+  border: 15px solid gold;
+  padding: 50px;
+  margin: 20px;
+}
+
+.para2 {
+  border-style: dotted;
+}
+
+.thomas1 {
+  border-style:dashed;
+  border-color:aqua; 
+  
+}
