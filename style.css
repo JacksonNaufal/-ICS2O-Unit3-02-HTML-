@@ -1,4 +1,6 @@
-.table1, th, tr {
+.table1, 
+th, 
+tr {
   border: 5px solid red;
 }
 
