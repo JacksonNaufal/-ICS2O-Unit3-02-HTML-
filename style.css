@@ -4,7 +4,9 @@ tr {
   border: 5px solid red;
 }
 
-.table, th, tr {
+.table, 
+th,
+tr {
   width: 100px;
 }
 
