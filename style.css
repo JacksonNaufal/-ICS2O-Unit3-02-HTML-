@@ -4,14 +4,14 @@ tr {
   border: 5px solid red;
 }
 
-.table, 
+.table,
 th,
 tr {
   width: 100px;
 }
 
 div {
-  background-color:red;
+  background-color: red;
   width: 100px;
   border: 15px solid gold;
   padding: 50px;
@@ -23,6 +23,6 @@ div {
 }
 
 .thomas1 {
-  border-style:dashed;
-  border-color:aqua;
+  border-style: dashed;
+  border-color: aqua;
 }
